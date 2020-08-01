@@ -1,6 +1,6 @@
 # Jewel Chill
 
-[Play Here](https://lufemas.github.io/jewel-chill)
+[Play Here](https://lufemas.github.io/jewel-chill/dist/index.html)
 
 - A Jewel Teris clone study case.
 
